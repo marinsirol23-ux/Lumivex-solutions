@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" role="img" aria-labelledby="title desc">
+<title id="title">Lumivex Solutions logo</title>
+<desc id="desc">Minimalistički Lumivex znak s arhitektonskim lamelama.</desc>
+<defs>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f6d99d"/>
+    <stop offset="0.5" stop-color="#b78a4b"/>
+    <stop offset="1" stop-color="#ffe2a5"/>
+  </linearGradient>
+  <linearGradient id="steel" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ffffff"/>
+    <stop offset="1" stop-color="#9aa3ad"/>
+  </linearGradient>
+</defs>
+<rect width="420" height="120" fill="transparent"/>
+<g transform="translate(16 16)">
+  <path d="M0 0h60v16H17v56h43v16H0z" fill="#111720"/>
+  <path d="M32 9h7v63h-7z" fill="url(#gold)" transform="rotate(26 35.5 40.5)"/>
+  <path d="M45 9h7v63h-7z" fill="url(#gold)" transform="rotate(26 48.5 40.5)" opacity=".92"/>
+  <path d="M58 9h7v63h-7z" fill="url(#gold)" transform="rotate(26 61.5 40.5)" opacity=".75"/>
+</g>
+<g transform="translate(104 29)">
+  <text x="0" y="34" font-family="Inter, Arial, sans-serif" font-size="35" letter-spacing="8" font-weight="800" fill="url(#steel)">LUMIVEX</text>
+  <text x="3" y="61" font-family="Inter, Arial, sans-serif" font-size="12" letter-spacing="6" font-weight="600" fill="#b78a4b">SOLUTIONS</text>
+</g>
+</svg>
